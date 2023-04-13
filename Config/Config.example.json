@@ -1,0 +1,26 @@
+{
+	"Hotkeys": {
+		"Drop Ped": "F1"
+	},
+	"ScriptsPaths": [
+		"C:/Users/dr4g0nsl4y3r/Desktop/Homework/"
+	],
+	"IgnorePrefixes": [
+		".",
+		"_"
+	],
+	"Scripts": {
+		"Vehicle": {
+			"Automation": {
+				"Repair": true,
+				"GodMode": true,
+				"LicensePlate": false,
+				"LicensePlates": {
+					"Default": "uhhhh",
+					"0x586765fb": "outatime"
+				},
+				"Siren": false
+			}
+		}
+	}
+}
