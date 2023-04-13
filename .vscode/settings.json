@@ -1,0 +1,13 @@
+{
+	"Lua.diagnostics.globals": [
+		"localplayer",
+		"menu",
+		"replayinterface",
+		"vector3",
+		"globals",
+		"ScriptConfig"
+	],
+	"Lua.diagnostics.disable": [
+		"lowercase-global"
+	]
+}
