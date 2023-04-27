@@ -14,7 +14,7 @@ for k, v in pairs(Config) do
 				Config[k] = value
 			end)
 	else
-		-- display the value
+		-- display the key & value
 		menu.add_action(k .. ": " .. tostring(v), function()
 		end)
 	end
