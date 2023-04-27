@@ -16,8 +16,6 @@ for k, v in pairs(Config) do
 	else
 		-- display the value
 		menu.add_action(k .. ": " .. tostring(v), function()
-			-- open the json file
-			os.execute("start " .. CONFIG_PATH)
 		end)
 	end
 end
